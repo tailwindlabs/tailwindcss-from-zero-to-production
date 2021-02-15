@@ -1,6 +1,6 @@
-# 02 - The Utility-First Workflow
+# 02: The Utility-First Workflow – Tailwind CSS Up and Running
 
-[🎬 Watch the video on YouTube](https://www.youtube.com/watch?v=UvF56fPGVt4)
+🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=UvF56fPGVt4)
 
 ## Setup steps
 

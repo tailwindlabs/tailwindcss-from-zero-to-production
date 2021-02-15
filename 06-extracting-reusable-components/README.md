@@ -1,6 +1,6 @@
-# 06 - Extracting Reusable Components
+# 06: Extracting Reusable Components – Tailwind CSS Up and Running
 
-[🎬 Watch the video on YouTube](https://www.youtube.com/watch?v=v-mkUxhaFVA)
+🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=v-mkUxhaFVA)
 
 ## Setup steps
 

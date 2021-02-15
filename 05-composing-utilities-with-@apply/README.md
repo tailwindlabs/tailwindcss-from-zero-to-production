@@ -1,6 +1,6 @@
-# 05 - Composing Utilities with @apply
+# 05: Composing Utilities with @apply – Tailwind CSS Up and Running
 
-[🎬 Watch the video on YouTube](https://www.youtube.com/watch?v=TrftauE2Vyk)
+🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=TrftauE2Vyk)
 
 ## Setup steps
 

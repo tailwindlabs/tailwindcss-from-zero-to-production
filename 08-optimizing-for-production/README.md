@@ -1,6 +1,6 @@
-# 08 - Optimizing for Production
+# 08: Optimizing for Production – Tailwind CSS Up and Running
 
-[🎬 Watch the video on YouTube](https://www.youtube.com/watch?v=HZn2LtBT59w)
+🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=HZn2LtBT59w)
 
 ## Setup steps
 

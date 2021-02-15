@@ -1,6 +1,6 @@
-# 3 - Responsive Design
+# 03: Responsive Design – Tailwind CSS Up and Running
 
-[🎬 Watch the video on YouTube](https://www.youtube.com/watch?v=hX1zUdj4Dw4)
+🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=hX1zUdj4Dw4)
 
 ## Setup steps
 
