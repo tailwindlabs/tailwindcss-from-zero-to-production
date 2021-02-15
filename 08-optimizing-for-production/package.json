@@ -1,0 +1,24 @@
+{
+  "name": "up-and-running",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.1.3",
+    "autoprefixer": "^10.2.3",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2",
+    "vite": "^2.0.0-beta.50"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
