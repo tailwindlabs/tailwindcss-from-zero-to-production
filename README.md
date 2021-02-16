@@ -1,6 +1,6 @@
-# Tailwind CSS Up and Running
+# Tailwind CSS: From Zero to Production
 
-This repository contains the source code for each lesson in the ["Tailwind CSS Up and Running"](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=1) screencast series.
+This repository contains the source code for each lesson in the ["Tailwind CSS: From Zero to Production"](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=1) screencast series.
 
 
 1. **Setting Up Tailwind CSS**<br>

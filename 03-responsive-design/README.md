@@ -1,4 +1,4 @@
-# 03: Responsive Design – Tailwind CSS Up and Running
+# 03: Responsive Design – Tailwind CSS: From Zero the Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=hX1zUdj4Dw4)
 

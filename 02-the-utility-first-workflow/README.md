@@ -1,4 +1,4 @@
-# 02: The Utility-First Workflow – Tailwind CSS Up and Running
+# 02: The Utility-First Workflow – Tailwind CSS: From Zero the Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=UvF56fPGVt4)
 

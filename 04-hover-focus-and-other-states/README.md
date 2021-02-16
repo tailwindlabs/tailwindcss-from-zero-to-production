@@ -1,4 +1,4 @@
-# 04: Hover, Focus and Other States – Tailwind CSS Up and Running
+# 04: Hover, Focus and Other States – Tailwind CSS: From Zero the Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=5_BPDve5-3M)
 

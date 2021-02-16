@@ -1,4 +1,4 @@
-# 05: Composing Utilities with @apply – Tailwind CSS Up and Running
+# 05: Composing Utilities with @apply – Tailwind CSS: From Zero the Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=TrftauE2Vyk)
 
