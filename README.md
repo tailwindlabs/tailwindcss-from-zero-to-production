@@ -6,6 +6,10 @@ This repository contains code examples for each step of the "Tailwind CSS Up and
 
 The code in each directory represents the final stage for the corresponding video.
 
+### 00: Course Intro
+
+🍿 [Watch the video](https://www.youtube.com/watch?v=elgqxmdVms8)
+
 ### 01: Setting Up Tailwind CSS
 
 💻 [View the code example](01-setting-up-tailwindcss) | 🍿 [Watch the video](https://www.youtube.com/watch?v=qYgogv4R8zg)
