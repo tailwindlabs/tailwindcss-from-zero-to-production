@@ -1,27 +1,21 @@
 # 08: Optimizing for Production – Tailwind CSS Up and Running
 
-🍿 [Watch the video on YouTube](https://www.youtube.com/watch?v=HZn2LtBT59w)
+[Watch the screencast](https://www.youtube.com/watch?v=HZn2LtBT59w)
 
-## Setup steps
-
-First, install all the required dependencies with `npm`:
+Install the required dependencies with `npm`:
 
 ```sh
 npm install
 ```
 
-Then, start the Vite dev server with:
+Then start the dev server:
 
 ```sh
 npm run dev
 ```
 
-## Production build with purged unused styles
-
-To make a production build and trigger the purging of unused styles, run:
+Or build for production to remove unused styles:
 
 ```sh
 npm run build
 ```
-
-This will generate production-ready assets in a `dist` directory.
