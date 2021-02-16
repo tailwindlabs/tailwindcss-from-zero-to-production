@@ -1,43 +1,28 @@
 # Tailwind CSS Up and Running
 
-This repository contains code examples for each step of the "Tailwind CSS Up and Running" video course.
+This repository contains the source code for each lesson in the ["Tailwind CSS Up and Running"](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) screencast series.
 
-## Table of Contents
 
-The code in each directory represents the final stage for the corresponding video.
+1. **Setting Up Tailwind CSS**<br>
+[Screencast](https://www.youtube.com/watch?v=qYgogv4R8zg) &middot; [Source code](01-setting-up-tailwindcss)
 
-### 00: Course Intro
+2. **The Utility-First Workflow**<br>
+[Screencast](https://www.youtube.com/watch?v=UvF56fPGVt4) &middot; [Source code](02-the-utility-first-workflow)
 
-🍿 [Watch the video](https://www.youtube.com/watch?v=elgqxmdVms8)
+3. **Responsive Design**<br>
+[Screencast](https://www.youtube.com/watch?v=hX1zUdj4Dw4) &middot; [Source code](03-responsive-design)
 
-### 01: Setting Up Tailwind CSS
+4. **Hover, Focus and Other States**<br>
+[Screencast](https://www.youtube.com/watch?v=5_BPDve5-3M) &middot; [Source code](04-hover-focus-and-other-states)
 
-💻 [View the code example](01-setting-up-tailwindcss) | 🍿 [Watch the video](https://www.youtube.com/watch?v=qYgogv4R8zg)
+5. **Composing Utilities with @apply**<br>
+[Screencast](https://www.youtube.com/watch?v=TrftauE2Vyk) &middot; [Source code](05-composing-utilities-with-@apply)
 
-### 02: The Utility-First Workflow
+6. **Extracting Reusable Components**<br>
+[Screencast](https://www.youtube.com/watch?v=v-mkUxhaFVA) &middot; [Source code](06-extracting-reusable-components)
 
-💻 [View the code example](02-the-utility-first-workflow) | 🍿 [Watch the video](https://www.youtube.com/watch?v=UvF56fPGVt4)
+7. **Customizing Your Design System**<br>
+[Screencast](https://www.youtube.com/watch?v=0l0Gx8gWPHk) &middot; [Source code](07-customizing-your-design-system)
 
-### 03: Responsive Design
-
-💻 [View the code example](03-responsive-design) | 🍿 [Watch the video](https://www.youtube.com/watch?v=hX1zUdj4Dw4)
-
-### 04: Hover, Focus and Other States
-
-💻 [View the code example](04-hover-focus-and-other-states) | 🍿 [Watch the video](https://www.youtube.com/watch?v=5_BPDve5-3M)
-
-### 05: Composing Utilities with @apply
-
-💻 [View the code example](05-composing-utilities-with-@apply) | 🍿 [Watch the video](https://www.youtube.com/watch?v=TrftauE2Vyk)
-
-### 06: Extracting Reusable Components
-
-💻 [View the code example](06-extracting-reusable-components) | 🍿 [Watch the video](https://www.youtube.com/watch?v=v-mkUxhaFVA)
-
-### 07: Customizing Your Design System
-
-💻 [View the code example](07-customizing-your-design-system) | 🍿 [Watch the video](https://www.youtube.com/watch?v=0l0Gx8gWPHk)
-
-### 08: Optimizing for Production
-
-💻 [View the code example](08-optimizing-for-production) | 🍿 [Watch the video](https://www.youtube.com/watch?v=HZn2LtBT59w)
+8. **Optimizing for Production**<br>
+[Screencast](https://www.youtube.com/watch?v=HZn2LtBT59w) &middot; [Source code](08-optimizing-for-production)
