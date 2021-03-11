@@ -1,4 +1,4 @@
-# 07: Customizing Your Design System – Tailwind CSS: From Zero the Production
+# 07: Customizing Your Design System – Tailwind CSS: From Zero to Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=0l0Gx8gWPHk)
 

@@ -1,4 +1,4 @@
-# 01: Setting Up Tailwind CSS – Tailwind CSS: From Zero the Production
+# 01: Setting Up Tailwind CSS – Tailwind CSS: From Zero to Production
 
 [Watch the screencast](https://www.youtube.com/watch?v=qYgogv4R8zg)
 
