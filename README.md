@@ -26,3 +26,6 @@ This repository contains the source code for each lesson in the ["Tailwind CSS: 
 
 8. **Optimizing for Production**<br>
 [Screencast](https://www.youtube.com/watch?v=HZn2LtBT59w) &middot; [Source code](08-optimizing-for-production)
+
+
+You can see [notes here](./notes.md)
